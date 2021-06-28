@@ -1,0 +1,81 @@
+baseURL: 'https://edfoal.github.io'
+languageCode: en-us
+paginate: 6
+theme: portio
+title: Edfoal
+
+menu:
+  main:
+    # - name: Home
+    #   url: '#home'
+    #   weight: 1
+    - name: About Us
+      url: '#about'
+      weight: 1
+
+    - name: Events
+      url: '#blog'
+      weight: 2
+
+    - name: Contact Us
+      url: '#contact'
+      weight: 3
+    # - name: Service
+    #   url: '#service'
+    #   weight: 2
+    # - name: Work
+    #   url: '#portfolio'
+    #   weight: 4
+    # - name: Resume
+    #   url: '#resume'
+    #   weight: 2
+   
+  # sitemap:
+  #   - name: About Us
+  #     url: about
+  #     weight: 1
+  #   - name: Frequently Ask Question
+  #     url: '#'
+  #     weight: 2
+  #   - name: Privacy & Policy
+  #     url: '#'
+  #     weight: 3
+  #   - name: Latest Article
+  #     url: '#'
+  #     weight: 4
+
+params:
+  
+  blogPageURL: blog
+  contactLink: contact
+  
+  copyright: All right reserved copyright © Edfoal Pvt Limited 2021
+  footerLogo: images/contact/edfoal-light-logo-banner.png
+  
+  # formspreeURL: YOUR FORMSPREE URL
+  # googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+  
+  logo: images/site-navigation/edfoal-logo-dark.png
+  
+  address:
+    address: 'Uttar Pradesh , India'
+    email: edfoal@edfoal.com
+    openingHours: Open from 10am to 6pm (close at 5pm Sundays)
+    phone: +91 9191919191
+  
+  # map:
+  #   APIkey: YOUR GOOGLE MAP API
+  #   latitude: '23.7783741'
+  #   longitude: '90.3746808'
+  #   pinImage: images/pin.png
+  social:
+    - icon: fa-github-square
+      url: 'https://twitter.com/'
+      weight: 1
+    - icon: fa-linkedin-square
+      url: 'https://www.linkedin.com/company/edfoal'
+      weight: 2
+    - icon: fa-instagram
+      url: 'https://instagram.com/ed_foal?utm_medium=copy_link'
+      weight: 3
+   
