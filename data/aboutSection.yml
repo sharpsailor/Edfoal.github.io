@@ -2,12 +2,12 @@
 enable: true
 topTitle: 
 title: >
-  ## About Us
+  ## About Us 👥
 
    A Startup Which Changing The Way In Which College Students Develop Their Skills and Helping Them To Reach Their Potential.
   Providing Practical Knowledge. Redefining Education In Tier 3 & 4 Cities! Experts, Sessions & Internships.
 content: >
-  ### We Help Others To Grow.
+  ### We Help Others To Grow 🙌
 
   A Startup Which Changing The Way In Which College Students Develop Their Skills and Helping Them To Reach Their Potential.
   Providing Practical Knowledge. Redefining Education In Tier 3 & 4 Cities! Experts, Sessions & Internships.
@@ -16,4 +16,4 @@ content: >
 # button2Name: Download CV
 # button1Target: contact
 # button2Target: contact
-image: images/about/edfoal-logo-dark-banner.png
+# image: images/about/edfoal-logo-dark-banner.png
