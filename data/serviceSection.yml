@@ -3,43 +3,28 @@ enable: true
 # topTitle: Working Area
 title: >
   ## What We Do
-
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      #### Communities
+      
+       We help in  building a combined community for students from different environment and work on same ground over same projects and skills .
+    image: images/service/ui-ux.png
   - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      #### Sessions
+       
+       We bring out different session over different technologies making students aware of new skills and project development.     
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Tech Event 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+       We regularly come out with tech events such as BlockChain ,Cloud Computing,Web development, App development , Ethical Hacking, AI and ML ,kali Linux and many more.....
   - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      #### Document Experience
+        We showcase interviews of people who have shown themselves out of the box and performed exceptionally well and what all they did in these times when they themselves were learning.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Internship
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      We provide diffferent internships in different fields such as graphic designing , HR management ,Marketing , Content Writing ,etc. 
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+ 
