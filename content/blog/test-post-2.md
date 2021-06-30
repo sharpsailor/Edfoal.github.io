@@ -1,34 +1,39 @@
 ---
-title: "Day 2 : Intro To OOPS"
+title: "Events For First Years Students"
 date: 2021-06-29T01:15:53+05:30
-featureImage: images/blog/python-logo.jpg
-postImage: images/blog/python-logo.jpg
+featureImage: https://scontent.fdel3-1.fna.fbcdn.net/v/t1.18169-9/22279453_494738404237734_6431288058950401449_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=_l_gFqYg57kAX_Tko9-&_nc_ht=scontent.fdel3-1.fna&oh=be26d438d4be09a5355adef0bde9dce7&oe=60E1E265
+postImage: https://scontent.fdel3-1.fna.fbcdn.net/v/t1.18169-9/22279453_494738404237734_6431288058950401449_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=_l_gFqYg57kAX_Tko9-&_nc_ht=scontent.fdel3-1.fna&oh=be26d438d4be09a5355adef0bde9dce7&oe=60E1E265
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### First Year Community
+***
+Edfoal is create a community or team of **First year Student**. 
+when a student passed there class 12 board examination then it confused about what type of technology they can choose for future or career. 
+Bascially in this community we are going to learn different technology from their experts and get a chance of live interaction with expertand cleaar their doubt about any technology. 
+<br>
+<br>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Our **First Year Community** start there journarty from this sunday (4 July 2021).
+<br>
+<br>
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+##### List Of Technology
+****
+We will go through all the technology as mentioned Below :
++ C/C++ programming
++ Python programming
++ Web Development 
++ Blockchain
++ Cloud Computing
++ App Delopment
++ Ethical Hacking 
++ AI and ML
++ Kali Linux   
+<br>
+<br>
+***
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
-
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+### How to Apply :
+***
+If Your are first year student and stuck between there type of problem then come and join us :
+You can join us by click on [this Link](https://lnkd.in/e7h3KVT) and fill the form.
