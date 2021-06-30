@@ -8,38 +8,34 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+     #### Communities
+     
+     We help in  building a combined community for students from different environment and work on same ground over same projects and skills .
+    
+    image: images/service/community.png
   - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+     #### Sessions
+       
+     We bring out different session over different technologies making students aware of new skills and project development. 
+    image: images/service/classroom.png
   - content: >
-      #### Creative Design 
+      #### Tech Events
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+      We regularly come out with tech events such as BlockChain, Cloud Computing, Web development, App development , Ethical Hacking, AI and ML , Kali Linux and many more.....
+    image: https://img.icons8.com/dusk/64/000000/blockchain-technology.png
   - content: >
-      #### Branding
+      #### Document Experiences
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
+      We showcase interviews of people who have shown themselves out of the box and performed exceptionally well and what all they did in these times when they themselves were learning.
+    image: https://img.icons8.com/color/48/000000/interview.png
   - content: >
-      #### UI/UX Design
+      #### Internships
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
+      We provide diffferent internships in different fields such as Graphic designing, HR management , Marketing , Content Writing etc. 
+    image: https://img.icons8.com/bubbles/50/000000/internship.png
+  # - content: >
+  #     #### Web Development
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/web.svg

@@ -58,10 +58,10 @@ params:
   logo: images/site-navigation/edfoal-logo-dark.png
   
   address:
-    address: 'Uttar Pradesh , India'
-    email: edfoal@edfoal.com
+    address: 'Sangam Vihar, Delhi'
+    email: edfoal.official@gmail.com
       # openingHours: Mon To Sat
-    phone: +91 9191919191
+    # phone: +91 9191919191
   
   # map:
   #   APIkey: YOUR GOOGLE MAP API
