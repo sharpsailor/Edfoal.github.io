@@ -1,34 +1,88 @@
 ---
-title: "Day 1 : Intro To Python Programming"
+title: "21 DAYS OF CODE"
 date: 2021-06-29T01:15:53+05:30
-featureImage: images/blog/python-logo.jpg
-postImage: images/blog/python-logo.jpg
+featureImage: https://wallpaperchat.com/walls/full/6/1/2/438509.jpg
+postImage: https://wallpaperchat.com/walls/full/6/1/2/438509.jpg
 ---
+## 21 DAYS OF CODE </H3>
+<br>
+***
+The Python community at EdFoal will host 21 Days of Code for Python.
+Every day, aspirants will be presented with 21 different assignments.
+They will be exposed to fresh learning possibilities while tackling a variety of issues.
+Students will have a strong understanding of Python after 21 days.
+We will choose the top 50 participants for project-based training based on their performance over the first 21 days of coding.
+***
+<br>
+<br>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### What would be the topics and complexity of the tasks ?
+***
+##### Week 1 - Basics Tasks 👨‍💼
+***
+##### Topic Covered 👇 -
++ Introduction
++ Data Types
++ Variables
++ Basic I/O
++ Basic Operators
++ Boolean value 
++ Loops
++ Lists and List processing
++ Bitwise Operations
+***
+<br>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+#### Week 2 - Intermediate Tasks 👨‍💻
+***
+##### Topic Covered 👇 - 
++ Functions
++ Dictonaries
++ Data Processing
++ Modules
++ Packages
++ Sting
++ Exceptions
+***
+<br>
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+#### Week 3 - Advanced Tasks 👨‍🎨
+***
+##### Topic Covered 👇 - 
++ OOPs
++ Classes
++ Methods
++ Objects
++ File handling 
+***
+<br>
+<br>
+<br>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### Rewards 🥇
+***
+1. Students will get badges on completing the tasks.
+2. A certificate completion of 21 days  of code will be provided to students on completion of all the tasks.
+3. Top 50 students will get project based training on python.
+***
+<br>
+<br>
+<br>
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+### How to apply 
+***
+Click on the link below to apply after you can able to join our whatsapp group :
+[ Apply Here !!!](https://forms.gle/KiNoUxX4GXMkua9YA) 
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+***
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 
-{{< /blogsection >}}
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+
+
+
+
+
+
