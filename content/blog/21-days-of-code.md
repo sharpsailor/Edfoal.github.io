@@ -81,5 +81,5 @@ Click on the link below to apply after you can able to join our [whatsapp group]
 ### Daily Tasks 📝 
 ***
 
-#### DAY 1 🚀 [Click Here](https://edfoal.github.io/blog/day-1-21doc/)
+#### DAY 2 🚀 [Click Here](https://p.hck.re/7nN4)
 
