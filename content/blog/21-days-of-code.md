@@ -81,5 +81,5 @@ Click on the link below to apply after you can able to join our [whatsapp group]
 ### Daily Tasks 📝 
 ***
 
-#### DAY 3 🚀 [Click Here](https://www.hackerearth.com/challenges/college/edfoal-21-days-of-code-day-3/)
+#### DAY 4 🚀 [Click Here](https://www.hackerearth.com/challenges/college/edfoal-21-days-of-code-day-4/)
 
