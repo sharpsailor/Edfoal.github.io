@@ -81,5 +81,4 @@ Click on the link below to apply after you can able to join our [whatsapp group]
 ### Daily Tasks 📝 
 ***
 
-#### DAY 15 🚀 [Click Here](https://www.hackerearth.com/challenges/college/edfoal-21-days-of-code-day-15/)
-
+#### Event Is Over Now, Stay Tuned For The Results!!
