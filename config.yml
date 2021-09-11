@@ -13,7 +13,7 @@ menu:
       url: '#about'
       weight: 1
 
-    - name: Events
+    - name: Posts
       url: '#blog'
       weight: 2
 
@@ -55,7 +55,7 @@ params:
   # formspreeURL: YOUR FORMSPREE URL
   # googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   
-  logo: images/site-navigation/edfoal-logo-dark.png
+  logo: images/site-navigation/edfoal-logo-dark-nav.png
   
   address:
     address: 'Sangam Vihar, Delhi'
